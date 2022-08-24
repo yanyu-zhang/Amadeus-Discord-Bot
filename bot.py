@@ -25,6 +25,7 @@ from discord.ext.commands import Context
 import exceptions
 
 config = json.loads(os.getenv("CONFIG"))
+print(config)
 
 """	
 Setup bot intents (events restrictions)
