@@ -24,7 +24,6 @@ from discord.ext.commands import Context
 
 import exceptions
 
-print(os.getenv("CONFIG"))
 config = json.loads(os.getenv("CONFIG"))
 
 """	
