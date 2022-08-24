@@ -143,3 +143,8 @@ the [tags on this repository](https://github.com/kkrypt0nn/Python-Discord-Bot-Te
 ## License
 
 This project is licensed under the Apache License 2.0 - see the [LICENSE.md](LICENSE.md) file for details
+
+# Amadeus-Discord-Bot
+Inspired by Steins;Gate 0, one of my favourite and the best anime of all time. 
+
+![](data/steins_gate_0_amadeus.jpg)
