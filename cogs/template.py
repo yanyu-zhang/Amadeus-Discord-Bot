@@ -58,7 +58,7 @@ class GameFeatures(commands.Cog, name="GameFeatures"):
                 team_members = list(self.team_member_dict.keys())
 
                 random.shuffle(team_members)
-                if 387014968933089291 in team_members:
+                if 387014968933089291 in team_members and 221805537573076993 in team_members:
                     while not is_in_same_team(team_members[:5], team_members[5:], 387014968933089291,
                                               221805537573076993):
                         random.shuffle(team_members)
